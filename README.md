@@ -1,4 +1,4 @@
-Soy santiago morales joven ingenerio de software y desarrollador  web , movil apacioonado por el desarrollo de afotware .
+Soy santiago morales joven ingenerio de software y desarrollador  web , movil apacionado por el desarrollo de afotware .
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-morales-2393ab1a6/) 
 
